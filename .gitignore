@@ -162,5 +162,4 @@ cython_debug/
 #.idea/
 
 # my ignores
-src/kanban_app/data/
 config.ini
